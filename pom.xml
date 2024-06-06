@@ -232,7 +232,7 @@
 		<maven-replacer-plugin.version>1.4.1</maven-replacer-plugin.version>
 		<maven-site-plugin.version>3.9.1</maven-site-plugin.version>
 		<maven-assembly-plugin.version>3.3.0</maven-assembly-plugin.version>
-		<maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
+		<maven-gpg-plugin.version>3.2.4</maven-gpg-plugin.version>
 		<maven-scm-plugin.version>1.11.2</maven-scm-plugin.version>
 		<maven-bundle-plugin.version>4.2.1</maven-bundle-plugin.version>
 		<maven-antrun-plugin.version>3.0.0</maven-antrun-plugin.version> <!-- TODO :: UPDATE PLUGIN TO v3.0.0 -->
